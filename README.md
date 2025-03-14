@@ -44,8 +44,7 @@ simon-game/
 │   ├── red.mp3
 │   ├── yellow.mp3
 │   └── wrong.mp3
-├── README.md          # Project documentation
-└── favicon.ico        # Website favicon
+└── README.md          # Project documentation
 ```
 
 ## 🔧 Setup Instructions
@@ -54,7 +53,7 @@ simon-game/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/simon-game.git
+   git clone https://github.com/jana-sourav/Simon-Game.git
    cd simon-game
    ```
 
