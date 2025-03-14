@@ -2,7 +2,7 @@
 
 A web-based implementation of the classic Simon memory game. Test your memory skills by repeating increasingly complex sequences of colors and sounds.
 
-![Simon Game Screenshot](https://via.placeholder.com/800x400?text=Simon+Game+Screenshot)
+![Simon Game Screenshot](https://github.com/user-attachments/assets/cb3b4c69-a53e-4efb-abcf-a1067472a9ad)
 
 ## 🎮 Demo
 
