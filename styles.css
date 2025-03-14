@@ -1,0 +1,101 @@
+/* Main styles for Simon Game */
+body {
+    text-align: center;
+    background-color: #011F3F;
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    margin-bottom: 20px;
+  }
+  
+  #level-title {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 2.5rem;
+    margin: 5%;
+    color: #FEF2BF;
+  }
+  
+  .container {
+    display: block;
+    width: 100%;
+    max-width: 650px;
+    margin: 0 auto;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .btn {
+    margin: 15px;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  
+  .game-over {
+    background-color: red;
+    opacity: 0.8;
+  }
+  
+  .red {
+    background-color: #FF0000;
+  }
+  
+  .green {
+    background-color: #00A74A;
+  }
+  
+  .blue {
+    background-color: #0000FF;
+  }
+  
+  .yellow {
+    background-color: #FFD700;
+  }
+  
+  .pressed {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+  }
+  
+  .game-instructions {
+    color: #FEF2BF;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 0.8rem;
+    margin-top: 30px;
+  }
+  
+  /* Responsive design */
+  @media (max-width: 768px) {
+    .btn {
+      height: 150px;
+      width: 150px;
+      margin: 10px;
+    }
+    
+    #level-title {
+      font-size: 1.8rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .btn {
+      height: 100px;
+      width: 100px;
+      margin: 8px;
+    }
+    
+    #level-title {
+      font-size: 1.5rem;
+    }
+  }
