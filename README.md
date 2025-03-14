@@ -4,9 +4,6 @@ A web-based implementation of the classic Simon memory game. Test your memory sk
 
 ![Simon Game Screenshot](https://github.com/user-attachments/assets/cb3b4c69-a53e-4efb-abcf-a1067472a9ad)
 
-## 🎮 Demo
-
-You can play the game online at: [Your GitHub Pages URL here]
 
 ## ✨ Features
 
