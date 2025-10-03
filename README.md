@@ -31,6 +31,9 @@ A web-based implementation of the classic Simon memory game. Test your memory sk
 6. Continue as long as you can remember the sequence
 7. If you make a mistake, the game will end and you can restart
 
+## 🚀 Live Demo
+👉 [Play Simon Game](https://jana-sourav.github.io/Simon-Game/)
+
 ## 📁 Project Structure
 
 ```
